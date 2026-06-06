@@ -1,4 +1,4 @@
-import formulas
+import formulas.lossles as formulas
 
 t_obsl = 2.5 # alpha
 lambd = 48 # n

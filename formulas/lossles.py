@@ -1,3 +1,5 @@
+"""Многоканальная СМО с отказами"""
+
 import math
 
 def sigma(n, m, f, *args, **kwargs):
